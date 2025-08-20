@@ -1,5 +1,6 @@
 # private-equity-venture-capital-atlas
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-View%20Dataset-20BEFF)](https://www.kaggle.com/datasets/imergea/international-private-equity-venture-capital-atlas)
 ![Imergea](https://img.shields.io/badge/Website-Imergea.com-blue)
 # 🌍 Imergea SME Private Equity & Venture Capital Atlas  
 
