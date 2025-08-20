@@ -1,7 +1,11 @@
 # private-equity-venture-capital-atlas
-Worldwide SME Mergers &amp; Acquisitions (M&amp;A) Atlas by Imergea — database of Private Equity, Venture Capital and Development Funds. Imergea specializes in international SME deal advisory from sales preparation to Sales Purchase Agreement (SPA) or Asset Purchase Agreement (APA).
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Imergea](https://img.shields.io/badge/Website-Imergea.com-blue)
+# 🌍 Imergea SME Private Equity & Venture Capital Atlas  
 
-🌍 Imergea SME Cross-Border M&A Atlas
+Worldwide database of Private Equity, Venture Capital and Development Funds. Imergea specializes in international SME M&A deal advisory from sales preparation to Sales Purchase Agreement (SPA) or Asset Purchase Agreement (APA).
+
+🌍 Imergea PE/VC Atlas 
 
 The Imergea Atlas is a worldwide database of Private Equity (PE), Venture Capital (VC), and Development Funds with a focus on Small and Medium Enterprises (SMEs) and emerging markets.
 It provides a unique, free resource for exploring cross-border M&A activity, SME investment opportunities, and private equity trends in growth markets.
@@ -40,19 +44,19 @@ Imergea does not hold responsibility for omissions or potential inaccuracies.
 
 Explore the dataset through interactive tools hosted on Imergea.com:
 
-🌍 SME M&A Atlas https://imergea.com/atlas/atlas.html
- – the interactive directory built from this DB
+🌍 [PE/VC Atlas](https://imergea.com/atlas/atlas.html) [![Atlas Tool](https://img.shields.io/badge/Tool-SME%20Atlas-green)](https://imergea.com/atlas/atlas.html)– the interactive directory built from this DB
 
-💰 Valuation Tool https://imergea.com/valuation-tool.html
+💰 [Valuation Tool](https://imergea.com/valuation-tool.html) [![Valuation Tool](https://img.shields.io/badge/Tool-Valuation-orange)](https://imergea.com/valuation-tool.html)
  – multiple valuation methods for SMEs
 
-📦 Export Assessment Tool https://imergea.com/export-assessment.html
+📦 [Export Assessment Tool](https://imergea.com/export-assessment.html) [![Export Tool](https://img.shields.io/badge/Tool-Export%20Assessment-yellow)](https://imergea.com/export-assessment.html)
  – benchmark sales by country & sector
 
-📈 M&A Public Trends https://imergea.com/ma/public/index.html
+📈 [M&A Barometer](https://imergea.com/ma/public/index.html) [![M&A Trends](https://img.shields.io/badge/Tool-M%26A%20Public%20Trends-red)](https://imergea.com/ma/public/index.html)
+
  – recent deal activity monitor
 
-📜 License
+📜 License [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This dataset is released under the Creative Commons Attribution 4.0 International (CC-BY 4.0) license.
 
@@ -64,19 +68,18 @@ Adapt — remix, transform, and build upon the material for any purpose
 
 As long as you provide appropriate credit:
 
-Cite as: Imergea SME Cross-Border M&A Atlas, https://imergea.com
+Cite as: Imergea PE/VC Atlas, https://imergea.com
 
 🔗 About Imergea
 
-https://imergea.com
- is an independent consulting firm specialized in cross-border mergers and acquisitions (M&A) for SMEs.
+Imergea is an independent consulting firm specialized in cross-border mergers and acquisitions (M&A) for SMEs.
 
 We provide:
 
 M&A deal advisory, from sales preparation to the finalization of Sales Purchase Agreements (SPA) or Asset Purchase Agreements (APA)
 
-Business Valuation & Capital Raising
+Business Valuation 
+
+Strategic digital revamp
 
 Export Development Strategies
-
-Investor Connections in Emerging Markets
